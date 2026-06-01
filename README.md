@@ -1,0 +1,3 @@
+这个仓库是用来写那些需要被演化的idea的，还有就是那些关联性比较强的idea。
+还可以被用来练习熟悉如何使用git和github。熟悉使用powershell。
+在上面上传的文件可以在obsidian中打开，打开后在obsidian中修改，改完之后作为一个new version再上传回来。
